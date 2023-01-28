@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QulbUpl0b1hl79+VerhXmBfZq7B9YdW2XQ5E0MNjPnSS0Rx4T4mRIIf2gZ67m8jRDQDmNPwwYQSryZGkJvlNig==",
+  "dgSpecHash": "CJPvoJMyuEquqRP+EZE++Om/I30GhilKAedYfgh91sHk8xk6H4KOA7wDQQK5AmAs7ZwiAsT73R0o0v9R7uL6dg==",
   "success": true,
-  "projectFilePath": "/home/runner/CSharp/main.csproj",
+  "projectFilePath": "/home/runner/Earth-Destruction-Simulator/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
